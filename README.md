@@ -1,5 +1,11 @@
-## Hi there 👋
+![/Users/esorrowk/Desktop/projects/egoregorak/assets/giphy.webp]()
+## Hello! My name is Egor and I'm a beginer python DevOps 👋
 
+About me
+
+Languages
+
+Follow me
 <!--
 **EgorEgorAk/egoregorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
