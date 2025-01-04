@@ -1,4 +1,4 @@
-!(assets/giphy.webp)
+<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1amV3OG41MnJqZmpkZTl1aGQ4cmJ6MDRsYTFuajRuYmtiOHdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp]">
 ## Hello! My name is Egor and I'm a beginer python DevOps 👋
 
 About me
