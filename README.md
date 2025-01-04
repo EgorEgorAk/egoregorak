@@ -1,11 +1,22 @@
-<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1amV3OG41MnJqZmpkZTl1aGQ4cmJ6MDRsYTFuajRuYmtiOHdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp]">
-## Hello! My name is Egor and I'm a beginer python DevOps 👋
 
-About me
+<center> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1amV3OG41MnJqZmpkZTl1aGQ4cmJ6MDRsYTFuajRuYmtiOHdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp"
+  width="1500" height="150"></center>
 
-Languages
+# Hello! My name is Egor and I'm a beginer python DevOps 👋
 
-Follow me
+## About me
+·I am from Russia. I was born in Saint Petersburg. 
+
+·I am studying<img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"
+  width="30" height="30"> and everything related to programming. 
+
+·I create my own small projects
+
+·I am just starting out, so go easy on me.
+
+
+
+
 <!--
 **EgorEgorAk/egoregorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
