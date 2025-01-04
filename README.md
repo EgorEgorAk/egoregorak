@@ -1,4 +1,4 @@
-![/Users/esorrowk/Desktop/projects/egoregorak/assets/giphy.webp]()
+!(assets/giphy.webp)
 ## Hello! My name is Egor and I'm a beginer python DevOps 👋
 
 About me
