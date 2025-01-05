@@ -5,14 +5,15 @@
 # Hello! My name is Egor and I'm a beginer python Developer 👋
 
 ## About me
-·I am from Russia. I was born in Saint Petersburg. 
+·I am from Russia. I was born in Saint Petersburg.🇷🇺 
 
 ·I am studying<img src="https://img.icons8.com/?size=100&id=W3gfKnMhfM6h&format=png&color=000000"
-  width="30" height="30"> and everything related to programming. 
+  width="30" height="30"> and everything related to programming.💻
 
-·I create my own small projects
+·I create my own small projects.😈
 
-·I am just starting out, so go easy on me.
+
+·I am just starting out, so go easy on me.🎩
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorEgorAk&show_icons=true&theme=transparent
