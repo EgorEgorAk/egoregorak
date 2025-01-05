@@ -15,7 +15,8 @@
 ·I am just starting out, so go easy on me.
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorEgorAk&show_icons=true&theme=transparent
+)
 
 <!--
 **EgorEgorAk/egoregorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
