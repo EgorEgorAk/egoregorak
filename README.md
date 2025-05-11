@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorEgorAk&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Let's Connect!
-- **Telegram**: [@YourTelegramrHandle](https://t.me/EgorAkentyev) 
+- **Telegram**: [@Tlegram](https://t.me/EgorAkentyev) 
 
 ## 🎨 Fun Facts
 - ⚡ I have a passion for gaming and technology; you can often find me playing the latest games or tinkering with new tech gadgets.
