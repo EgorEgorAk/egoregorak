@@ -5,9 +5,9 @@
 # Hello! I'm Egor, a Passionate Python Developer 👋
 
 ## 🌍 About Me
-- ** Location **: 🇷🇺 Born and raised in the beautiful city of St. Petersburg, Russia.
-- ** Training trip **: 💻 Currently immersed deeply in Python and exploring the vast world of programming. I like to solve new problems and expand my set of skills! I am studying in the direction of program engineering
-- ** Projects **: 😈 I like to create small projects that solve real problems or simply bring some pleasure on my day. Check my repositories to find out a few cool things!
+- **Location**: 🇷🇺 Born and raised in the beautiful city of St. Petersburg, Russia.
+- **Training trip**: 💻 Currently immersed deeply in Python and exploring the vast world of programming. I like to solve new problems and expand my set of skills! I am studying in the direction of program engineering
+- **Projects**: 😈 I like to create small projects that solve real problems or simply bring some pleasure on my day. Check my repositories to find out a few cool things!
 
 
 ## 🚀 My Achievements
@@ -15,9 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorEgorAk&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💬 Let's Connect!
-- **GitHub**: [EgorEgorAk](https://github.com/EgorEgorAk)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle) (if applicable)
+- **Telegram**: [@YourTelegramrHandle](https://t.me/EgorAkentyev) 
 
 ## 🎨 Fun Facts
 - ⚡ I have a passion for gaming and technology; you can often find me playing the latest games or tinkering with new tech gadgets.
