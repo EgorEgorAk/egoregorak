@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1amV3OG41MnJqZmpkZTl1aGQ4cmJ6MDRsYTFuajRuYmtiOHdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="1500" height="150">
 </center>
 
-# Hello! I'm Egor, a Passionate Python Developer 👋
+# Hello! I'm Egor, a Passionate Developer 👋
 
 ## 🌍 About Me
 - **Location**: 🇷🇺 Born and raised in the beautiful city of St. Petersburg, Russia.
@@ -24,7 +24,7 @@
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies I'm currently working with:
-- **Languages**: Python...
+- **Languages**: Python,HTML, CSS, JavaSqript...
 - **Frameworks**: Flask, Django
 - **Tools**: Git, VS Code
 
@@ -32,6 +32,7 @@ Here are some of the technologies I'm currently working with:
 - I am improving my Python skills to finally get my first offer to work
 - Trying to learn the language of programming C in the university
 - I’m looking to collaborate on open-source projects or any interesting ideas you might have!
+- I want to learn a new frontend developer stack
 
 ---
 
