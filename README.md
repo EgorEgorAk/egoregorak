@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanh1amV3OG41MnJqZmpkZTl1aGQ4cmJ6MDRsYTFuajRuYmtiOHdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="1500" height="150">
 </center>
 
-# Hello! I'm Egor, a Passionate Developer 👋
+# Hello! I'm Egor, a Begginer Developer 👋
 
 ## 🌍 About Me
 - **Location**: 🇷🇺 Born and raised in the beautiful city of St. Petersburg, Russia.
@@ -24,7 +24,7 @@
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies I'm currently working with:
-- **Languages**: Python,HTML, CSS, JavaSqript...
+- **Languages**: Python,HTML, CSS, Swift...
 - **Frameworks**: Flask, Django
 - **Tools**: Git, VS Code
 
